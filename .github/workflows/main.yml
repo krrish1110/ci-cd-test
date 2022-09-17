@@ -14,4 +14,4 @@ jobs:
         server: test.bbros.xyz
         username: ftpcicd
         password: ${{ secrets.ftp_password }}
-        server-dir: /subfolder
+        server-dir: subfolder/
